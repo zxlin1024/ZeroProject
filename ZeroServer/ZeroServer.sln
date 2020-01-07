@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroServer", "ZeroServer\ZeroServer.csproj", "{F96D000C-6922-4DCA-BB11-F85E9F821722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroServerTest", "ZeroServerTest\ZeroServerTest.csproj", "{E3CD55BC-0014-4508-870F-8EAF98E6B5C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96D000C-6922-4DCA-BB11-F85E9F821722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96D000C-6922-4DCA-BB11-F85E9F821722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96D000C-6922-4DCA-BB11-F85E9F821722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96D000C-6922-4DCA-BB11-F85E9F821722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CD55BC-0014-4508-870F-8EAF98E6B5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CD55BC-0014-4508-870F-8EAF98E6B5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CD55BC-0014-4508-870F-8EAF98E6B5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CD55BC-0014-4508-870F-8EAF98E6B5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B84FB51-0D7A-4841-81F6-ECD24DB8945F}
+	EndGlobalSection
+EndGlobal

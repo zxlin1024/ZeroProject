@@ -1,0 +1,6 @@
+F:\Zero\ZeroServer\ZeroServerTest\bin\Debug\ZeroServerTest.exe.config
+F:\Zero\ZeroServer\ZeroServerTest\bin\Debug\ZeroServerTest.exe
+F:\Zero\ZeroServer\ZeroServerTest\bin\Debug\ZeroServerTest.pdb
+F:\Zero\ZeroServer\ZeroServerTest\obj\Debug\ZeroServerTest.csprojAssemblyReference.cache
+F:\Zero\ZeroServer\ZeroServerTest\obj\Debug\ZeroServerTest.exe
+F:\Zero\ZeroServer\ZeroServerTest\obj\Debug\ZeroServerTest.pdb

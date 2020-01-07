@@ -52,3 +52,10 @@ namespace ZeroServer {
         }
     }
 }
+public enum OperationCode : byte {
+    Test = 1,
+}
+
+public enum EventCode : byte {
+
+}

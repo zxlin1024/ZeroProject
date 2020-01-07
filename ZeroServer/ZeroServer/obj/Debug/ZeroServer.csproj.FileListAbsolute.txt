@@ -5,3 +5,7 @@ F:\Zero\ZeroServer\ZeroServer\obj\Debug\ZeroServer.csproj.CopyComplete
 D:\Program Files\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ZeroServer\bin\ZeroServer.dll
 D:\Program Files\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ZeroServer\bin\ZeroServer.pdb
 D:\Program Files\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\ZeroServer\bin\log4net.config
+D:\TestProject\ZeroProject\ZeroServer\ZeroServer\obj\Debug\ZeroServer.csprojAssemblyReference.cache
+D:\TestProject\ZeroProject\ZeroServer\ZeroServer\obj\Debug\ZeroServer.csproj.CopyComplete
+D:\TestProject\ZeroProject\ZeroServer\ZeroServer\obj\Debug\ZeroServer.dll
+D:\TestProject\ZeroProject\ZeroServer\ZeroServer\obj\Debug\ZeroServer.pdb

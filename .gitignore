@@ -6,3 +6,4 @@ ZeroClient/obj
 ZeroClient/.vs
 ZeroClient/ZeroClient.sln
 ZeroClient/Assembly-CSharp.csproj
+ZeroServer\ZeroServerTest\bin\Debug

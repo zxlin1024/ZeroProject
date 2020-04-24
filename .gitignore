@@ -1,0 +1,8 @@
+ZeroClient/Library
+ZeroClient/Logs
+ZeroClient/Packages
+ZeroClient/Temp
+ZeroClient/obj
+ZeroClient/.vs
+ZeroClient/ZeroClient.sln
+ZeroClient/Assembly-CSharp.csproj
